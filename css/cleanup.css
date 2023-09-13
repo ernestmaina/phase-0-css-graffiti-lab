@@ -1,1 +1,26 @@
 /* write your override styles here */
+
+
+  #wall .tag-1 {
+    display: none;
+  }
+
+  #tag-5 .slick {
+    display: grid;
+  }
+
+
+ .parent{
+    display: none;
+ }
+
+ #tag-6{
+    display: none;
+ }
+   
+  .slick{
+    display: none;
+ }
+
+
+/* write your override styles here */
